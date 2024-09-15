@@ -1,0 +1,91 @@
+{
+  "id": "gid://shopify/Product/8074394992832",
+  "title": "A Mother's Nature",
+  "metafields": {
+    "edges": [
+      {
+        "node": {
+          "namespace": "global",
+          "key": "title_tag",
+          "value": "A Mother's Nature - Emerson - Expressive Abstract Contemporary Art"
+        }
+      },
+      {
+        "node": {
+          "namespace": "global",
+          "key": "description_tag",
+          "value": "This one-of-a-kind artwork titled \"A Mother's Nature\" by Emerson is a striking piece of expressive abstract art that would fit well in any contemporary interior design."
+        }
+      },
+      {
+        "node": {
+          "namespace": "custom",
+          "key": "medium",
+          "value": "Oil on Canvas\n"
+        }
+      },
+      {
+        "node": {
+          "namespace": "custom",
+          "key": "authentication",
+          "value": "This work comes with a Certificate of Authenticity signed by Emerson."
+        }
+      },
+      {
+        "node": {
+          "namespace": "custom",
+          "key": "width",
+          "value": "{\"value\":48.0,\"unit\":\"INCHES\"}"
+        }
+      },
+      {
+        "node": {
+          "namespace": "custom",
+          "key": "height",
+          "value": "{\"value\":60.0,\"unit\":\"INCHES\"}"
+        }
+      },
+      {
+        "node": {
+          "namespace": "custom",
+          "key": "dimensions",
+          "value": "48 x 60 inches\n121.9 x 152.4 cm"
+        }
+      },
+      {
+        "node": {
+          "namespace": "custom",
+          "key": "year",
+          "value": "2023"
+        }
+      }
+    ]
+  },
+  "images": {
+    "edges": [
+      {
+        "node": {
+          "id": "gid://shopify/ProductImage/39523859398848",
+          "src": "https://cdn.shopify.com/s/files/1/0664/9026/9888/files/96c88dce5ec11932a33c8b79de1fd927j.jpg?v=1726014352",
+          "altText": "A Mother's Nature"
+        }
+      }
+    ]
+  },
+  "options": [
+    {
+      "id": "gid://shopify/ProductOption/10357148975296",
+      "name": "Dimensions",
+      "values": [
+        "48 x 60 in\r; 121.9 x 152.4 cm"
+      ]
+    },
+    {
+      "id": "gid://shopify/ProductOption/10357149008064",
+      "name": "Year",
+      "values": [
+        "2023"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "id": 8074394992832,
+  "title": "A Mother's Nature",
+  "body_html": "",
+  "vendor": "Emerson",
+  "product_type": "Figurative",
+  "created_at": "2024-09-10T17:25:51-07:00",
+  "handle": "a-mothers-nature",
+  "updated_at": "2024-09-15T13:04:01-07:00",
+  "published_at": "2024-09-10T17:25:49-07:00",
+  "template_suffix": null,
+  "published_scope": "global",
+  "tags": "Figurative",
+  "status": "active",
+  "admin_graphql_api_id": "gid://shopify/Product/8074394992832",
+  "variants": [
+    {
+      "id": 45559041032384,
+      "product_id": 8074394992832,
+      "title": "48 x 60 in\r; 121.9 x 152.4 cm / 2023",
+      "price": "8900.00",
+      "position": 1,
+      "inventory_policy": "deny",
+      "compare_at_price": null,
+      "option1": "48 x 60 in\r; 121.9 x 152.4 cm",
+      "option2": "2023",
+      "option3": null,
+      "created_at": "2024-09-10T17:25:52-07:00",
+      "updated_at": "2024-09-10T17:25:52-07:00",
+      "taxable": true,
+      "barcode": null,
+      "fulfillment_service": "manual",
+      "grams": 0,
+      "inventory_management": null,
+      "requires_shipping": true,
+      "sku": "A Mother's Nature-452",
+      "weight": 0,
+      "weight_unit": "lb",
+      "inventory_item_id": 47503810461888,
+      "inventory_quantity": 0,
+      "old_inventory_quantity": 0,
+      "admin_graphql_api_id": "gid://shopify/ProductVariant/45559041032384",
+      "image_id": null
+    }
+  ],
+  "options": [
+    {
+      "id": 10357148975296,
+      "product_id": 8074394992832,
+      "name": "Dimensions",
+      "position": 1,
+      "values": [
+        "48 x 60 in\r; 121.9 x 152.4 cm"
+      ]
+    },
+    {
+      "id": 10357149008064,
+      "product_id": 8074394992832,
+      "name": "Year",
+      "position": 2,
+      "values": [
+        "2023"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "id": 39523859398848,
+      "alt": "A Mother's Nature",
+      "position": 1,
+      "product_id": 8074394992832,
+      "created_at": "2024-09-10T17:25:52-07:00",
+      "updated_at": "2024-09-10T17:25:52-07:00",
+      "admin_graphql_api_id": "gid://shopify/ProductImage/39523859398848",
+      "width": 1278,
+      "height": 1600,
+      "src": "https://cdn.shopify.com/s/files/1/0664/9026/9888/files/96c88dce5ec11932a33c8b79de1fd927j.jpg?v=1726014352",
+      "variant_ids": []
+    }
+  ],
+  "image": {
+    "id": 39523859398848,
+    "alt": "A Mother's Nature",
+    "position": 1,
+    "product_id": 8074394992832,
+    "created_at": "2024-09-10T17:25:52-07:00",
+    "updated_at": "2024-09-10T17:25:52-07:00",
+    "admin_graphql_api_id": "gid://shopify/ProductImage/39523859398848",
+    "width": 1278,
+    "height": 1600,
+    "src": "https://cdn.shopify.com/s/files/1/0664/9026/9888/files/96c88dce5ec11932a33c8b79de1fd927j.jpg?v=1726014352",
+    "variant_ids": []
+  }
+}
